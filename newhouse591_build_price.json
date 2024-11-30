@@ -1,0 +1,783 @@
+{
+    "status": 1,
+    "data": {
+        "items": [
+            {
+                "id": 6584756,
+                "date": "113-06-11",
+                "trans_date": "2024-06-11",
+                "month": "113-06",
+                "address": "台北中山區民生東路二段及新生北路二段",
+                "layout": "2房",
+                "layout_v2": "2房2廳",
+                "room_search": 2,
+                "build_area": "38.56坪",
+                "build_area_v": {
+                    "area": "38.6",
+                    "unit": "坪"
+                },
+                "building_area": {
+                    "area": "29.3",
+                    "unit": "坪"
+                },
+                "building_total_price": {
+                    "price": "3,800",
+                    "unit": "萬"
+                },
+                "real_park_area": {
+                    "area": "9.2",
+                    "unit": "坪",
+                    "estimate": 0
+                },
+                "unit_price": {
+                    "price": "129.5",
+                    "unit": "萬/坪"
+                },
+                "src_unit_price": {
+                    "price": "108.8",
+                    "unit": "萬/坪"
+                },
+                "total_price": "4,195萬",
+                "total_price_v": "4,195",
+                "price_tips": "",
+                "context": "",
+                "is_special": 0,
+                "has_park": "1",
+                "unit_has_park": "0",
+                "shift_floor": "3樓",
+                "total_floor": "15樓",
+                "build_purpose_str": "住宅",
+                "real_park_total_price": "395",
+                "real_park_total_price_v": {
+                    "price": "395",
+                    "unit": "萬",
+                    "estimate": 0
+                },
+                "community": {
+                    "id": 5935592,
+                    "name": "佳元當代美術館",
+                    "build_type": 1
+                },
+                "trans_rep_year": "113年",
+                "tag": [
+                    "低樓層",
+                    "平面車位"
+                ],
+                "park_type_str": "平面車位",
+                "match_type": 0,
+                "tips": "",
+                "park_count": 1,
+                "history_trans_count": 1,
+                "is_new_tag": 0,
+                "assoc_type": 0,
+                "business_circle_id": 0,
+                "build_date": "",
+                "original_shift_floor": "3",
+                "original_total_floor": 15
+            },
+            {
+                "id": 6584759,
+                "date": "113-06-11",
+                "trans_date": "2024-06-11",
+                "month": "113-06",
+                "address": "台北中山區民生東路二段及新生北路二段",
+                "layout": "3房",
+                "layout_v2": "3房2廳",
+                "room_search": 3,
+                "build_area": "43.30坪",
+                "build_area_v": {
+                    "area": "43.3",
+                    "unit": "坪"
+                },
+                "building_area": {
+                    "area": "34.1",
+                    "unit": "坪"
+                },
+                "building_total_price": {
+                    "price": "4,382",
+                    "unit": "萬"
+                },
+                "real_park_area": {
+                    "area": "9.2",
+                    "unit": "坪",
+                    "estimate": 0
+                },
+                "unit_price": {
+                    "price": "128.6",
+                    "unit": "萬/坪"
+                },
+                "src_unit_price": {
+                    "price": "110.3",
+                    "unit": "萬/坪"
+                },
+                "total_price": "4,777萬",
+                "total_price_v": "4,777",
+                "price_tips": "",
+                "context": "",
+                "is_special": 0,
+                "has_park": "1",
+                "unit_has_park": "0",
+                "shift_floor": "5樓",
+                "total_floor": "15樓",
+                "build_purpose_str": "住宅",
+                "real_park_total_price": "395",
+                "real_park_total_price_v": {
+                    "price": "395",
+                    "unit": "萬",
+                    "estimate": 0
+                },
+                "community": {
+                    "id": 5935592,
+                    "name": "佳元當代美術館",
+                    "build_type": 1
+                },
+                "trans_rep_year": "113年",
+                "tag": [
+                    "低樓層",
+                    "平面車位"
+                ],
+                "park_type_str": "平面車位",
+                "match_type": 0,
+                "tips": "",
+                "park_count": 1,
+                "history_trans_count": 1,
+                "is_new_tag": 0,
+                "assoc_type": 0,
+                "business_circle_id": 0,
+                "build_date": "",
+                "original_shift_floor": "5",
+                "original_total_floor": 15
+            },
+            {
+                "id": 6618736,
+                "date": "113-06-10",
+                "trans_date": "2024-06-10",
+                "month": "113-06",
+                "address": "台北中山區民生東路二段及新生北路二段",
+                "layout": "2房",
+                "layout_v2": "2房2廳",
+                "room_search": 2,
+                "build_area": "24.94坪",
+                "build_area_v": {
+                    "area": "24.9",
+                    "unit": "坪"
+                },
+                "building_area": {
+                    "area": "24.9",
+                    "unit": "坪"
+                },
+                "building_total_price": {
+                    "price": "3,368",
+                    "unit": "萬"
+                },
+                "real_park_area": {
+                    "area": "-",
+                    "unit": "坪",
+                    "estimate": 0
+                },
+                "unit_price": {
+                    "price": "135.0",
+                    "unit": "萬/坪"
+                },
+                "src_unit_price": {
+                    "price": "135.0",
+                    "unit": "萬/坪"
+                },
+                "total_price": "3,368萬",
+                "total_price_v": "3,368",
+                "price_tips": "",
+                "context": "",
+                "is_special": 0,
+                "has_park": "0",
+                "unit_has_park": "0",
+                "shift_floor": "3樓",
+                "total_floor": "15樓",
+                "build_purpose_str": "住宅",
+                "real_park_total_price": "-",
+                "real_park_total_price_v": {
+                    "price": "-",
+                    "unit": "萬",
+                    "estimate": 0
+                },
+                "community": {
+                    "id": 5935592,
+                    "name": "佳元當代美術館",
+                    "build_type": 1
+                },
+                "trans_rep_year": "113年",
+                "tag": [
+                    "低樓層",
+                    "無車位"
+                ],
+                "park_type_str": "無車位",
+                "match_type": 0,
+                "tips": "",
+                "park_count": 0,
+                "history_trans_count": 1,
+                "is_new_tag": 0,
+                "assoc_type": 0,
+                "business_circle_id": 0,
+                "build_date": "",
+                "original_shift_floor": "3",
+                "original_total_floor": 15
+            },
+            {
+                "id": 6618681,
+                "date": "113-06-08",
+                "trans_date": "2024-06-08",
+                "month": "113-06",
+                "address": "台北中山區民生東路二段及新生北路二段",
+                "layout": "3房",
+                "layout_v2": "3房2廳",
+                "room_search": 3,
+                "build_area": "33.49坪",
+                "build_area_v": {
+                    "area": "33.5",
+                    "unit": "坪"
+                },
+                "building_area": {
+                    "area": "33.5",
+                    "unit": "坪"
+                },
+                "building_total_price": {
+                    "price": "4,223",
+                    "unit": "萬"
+                },
+                "real_park_area": {
+                    "area": "-",
+                    "unit": "坪",
+                    "estimate": 0
+                },
+                "unit_price": {
+                    "price": "126.1",
+                    "unit": "萬/坪"
+                },
+                "src_unit_price": {
+                    "price": "126.1",
+                    "unit": "萬/坪"
+                },
+                "total_price": "4,223萬",
+                "total_price_v": "4,223",
+                "price_tips": "",
+                "context": "",
+                "is_special": 0,
+                "has_park": "0",
+                "unit_has_park": "0",
+                "shift_floor": "2樓",
+                "total_floor": "15樓",
+                "build_purpose_str": "住宅",
+                "real_park_total_price": "-",
+                "real_park_total_price_v": {
+                    "price": "-",
+                    "unit": "萬",
+                    "estimate": 0
+                },
+                "community": {
+                    "id": 5935592,
+                    "name": "佳元當代美術館",
+                    "build_type": 1
+                },
+                "trans_rep_year": "113年",
+                "tag": [
+                    "低樓層",
+                    "無車位"
+                ],
+                "park_type_str": "無車位",
+                "match_type": 0,
+                "tips": "",
+                "park_count": 0,
+                "history_trans_count": 1,
+                "is_new_tag": 0,
+                "assoc_type": 0,
+                "business_circle_id": 0,
+                "build_date": "",
+                "original_shift_floor": "2",
+                "original_total_floor": 15
+            },
+            {
+                "id": 6618746,
+                "date": "113-06-05",
+                "trans_date": "2024-06-05",
+                "month": "113-06",
+                "address": "台北中山區民生東路二段及新生北路二段",
+                "layout": "2房",
+                "layout_v2": "2房2廳",
+                "room_search": 2,
+                "build_area": "24.95坪",
+                "build_area_v": {
+                    "area": "24.9",
+                    "unit": "坪"
+                },
+                "building_area": {
+                    "area": "24.9",
+                    "unit": "坪"
+                },
+                "building_total_price": {
+                    "price": "3,300",
+                    "unit": "萬"
+                },
+                "real_park_area": {
+                    "area": "-",
+                    "unit": "坪",
+                    "estimate": 0
+                },
+                "unit_price": {
+                    "price": "132.3",
+                    "unit": "萬/坪"
+                },
+                "src_unit_price": {
+                    "price": "132.3",
+                    "unit": "萬/坪"
+                },
+                "total_price": "3,300萬",
+                "total_price_v": "3,300",
+                "price_tips": "",
+                "context": "",
+                "is_special": 0,
+                "has_park": "0",
+                "unit_has_park": "0",
+                "shift_floor": "4樓",
+                "total_floor": "15樓",
+                "build_purpose_str": "住宅",
+                "real_park_total_price": "-",
+                "real_park_total_price_v": {
+                    "price": "-",
+                    "unit": "萬",
+                    "estimate": 0
+                },
+                "community": {
+                    "id": 5935592,
+                    "name": "佳元當代美術館",
+                    "build_type": 1
+                },
+                "trans_rep_year": "113年",
+                "tag": [
+                    "低樓層",
+                    "無車位"
+                ],
+                "park_type_str": "無車位",
+                "match_type": 0,
+                "tips": "",
+                "park_count": 0,
+                "history_trans_count": 1,
+                "is_new_tag": 0,
+                "assoc_type": 0,
+                "business_circle_id": 0,
+                "build_date": "",
+                "original_shift_floor": "4",
+                "original_total_floor": 15
+            },
+            {
+                "id": 6618680,
+                "date": "113-06-04",
+                "trans_date": "2024-06-04",
+                "month": "113-06",
+                "address": "台北中山區民生東路二段及新生北路二段",
+                "layout": "2房",
+                "layout_v2": "2房2廳",
+                "room_search": 2,
+                "build_area": "33.62坪",
+                "build_area_v": {
+                    "area": "33.6",
+                    "unit": "坪"
+                },
+                "building_area": {
+                    "area": "25.1",
+                    "unit": "坪"
+                },
+                "building_total_price": {
+                    "price": "3,610",
+                    "unit": "萬"
+                },
+                "real_park_area": {
+                    "area": "8.5",
+                    "unit": "坪",
+                    "estimate": 0
+                },
+                "unit_price": {
+                    "price": "143.6",
+                    "unit": "萬/坪"
+                },
+                "src_unit_price": {
+                    "price": "117.3",
+                    "unit": "萬/坪"
+                },
+                "total_price": "3,945萬",
+                "total_price_v": "3,945",
+                "price_tips": "",
+                "context": "",
+                "is_special": 0,
+                "has_park": "1",
+                "unit_has_park": "0",
+                "shift_floor": "11樓",
+                "total_floor": "15樓",
+                "build_purpose_str": "住宅",
+                "real_park_total_price": "335",
+                "real_park_total_price_v": {
+                    "price": "335",
+                    "unit": "萬",
+                    "estimate": 0
+                },
+                "community": {
+                    "id": 5935592,
+                    "name": "佳元當代美術館",
+                    "build_type": 1
+                },
+                "trans_rep_year": "113年",
+                "tag": [
+                    "高樓層",
+                    "平面車位"
+                ],
+                "park_type_str": "平面車位",
+                "match_type": 0,
+                "tips": "",
+                "park_count": 1,
+                "history_trans_count": 1,
+                "is_new_tag": 0,
+                "assoc_type": 0,
+                "business_circle_id": 0,
+                "build_date": "",
+                "original_shift_floor": "11",
+                "original_total_floor": 15
+            },
+            {
+                "id": 6618659,
+                "date": "113-06-03",
+                "trans_date": "2024-06-03",
+                "month": "113-06",
+                "address": "台北中山區民生東路二段新生北路二段",
+                "layout": "3房",
+                "layout_v2": "3房2廳",
+                "room_search": 3,
+                "build_area": "33.44坪",
+                "build_area_v": {
+                    "area": "33.4",
+                    "unit": "坪"
+                },
+                "building_area": {
+                    "area": "33.4",
+                    "unit": "坪"
+                },
+                "building_total_price": {
+                    "price": "4,379",
+                    "unit": "萬"
+                },
+                "real_park_area": {
+                    "area": "-",
+                    "unit": "坪",
+                    "estimate": 0
+                },
+                "unit_price": {
+                    "price": "130.9",
+                    "unit": "萬/坪"
+                },
+                "src_unit_price": {
+                    "price": "130.9",
+                    "unit": "萬/坪"
+                },
+                "total_price": "4,379萬",
+                "total_price_v": "4,379",
+                "price_tips": "",
+                "context": "",
+                "is_special": 0,
+                "has_park": "0",
+                "unit_has_park": "0",
+                "shift_floor": "6樓",
+                "total_floor": "15樓",
+                "build_purpose_str": "住宅",
+                "real_park_total_price": "-",
+                "real_park_total_price_v": {
+                    "price": "-",
+                    "unit": "萬",
+                    "estimate": 0
+                },
+                "community": {
+                    "id": 5935592,
+                    "name": "佳元當代美術館",
+                    "build_type": 1
+                },
+                "trans_rep_year": "113年",
+                "tag": [
+                    "中樓層",
+                    "無車位"
+                ],
+                "park_type_str": "無車位",
+                "match_type": 0,
+                "tips": "",
+                "park_count": 0,
+                "history_trans_count": 1,
+                "is_new_tag": 0,
+                "assoc_type": 0,
+                "business_circle_id": 0,
+                "build_date": "",
+                "original_shift_floor": "6",
+                "original_total_floor": 15
+            },
+            {
+                "id": 6618737,
+                "date": "113-06-03",
+                "trans_date": "2024-06-03",
+                "month": "113-06",
+                "address": "台北中山區民生東路二段及新生北路二段",
+                "layout": "3房",
+                "layout_v2": "3房2廳",
+                "room_search": 3,
+                "build_area": "46.17坪",
+                "build_area_v": {
+                    "area": "46.2",
+                    "unit": "坪"
+                },
+                "building_area": {
+                    "area": "36.9",
+                    "unit": "坪"
+                },
+                "building_total_price": {
+                    "price": "4,797",
+                    "unit": "萬"
+                },
+                "real_park_area": {
+                    "area": "9.2",
+                    "unit": "坪",
+                    "estimate": 0
+                },
+                "unit_price": {
+                    "price": "129.8",
+                    "unit": "萬/坪"
+                },
+                "src_unit_price": {
+                    "price": "112.4",
+                    "unit": "萬/坪"
+                },
+                "total_price": "5,192萬",
+                "total_price_v": "5,192",
+                "price_tips": "",
+                "context": "",
+                "is_special": 0,
+                "has_park": "1",
+                "unit_has_park": "0",
+                "shift_floor": "4樓",
+                "total_floor": "15樓",
+                "build_purpose_str": "住宅",
+                "real_park_total_price": "395",
+                "real_park_total_price_v": {
+                    "price": "395",
+                    "unit": "萬",
+                    "estimate": 0
+                },
+                "community": {
+                    "id": 5935592,
+                    "name": "佳元當代美術館",
+                    "build_type": 1
+                },
+                "trans_rep_year": "113年",
+                "tag": [
+                    "低樓層",
+                    "平面車位"
+                ],
+                "park_type_str": "平面車位",
+                "match_type": 0,
+                "tips": "",
+                "park_count": 1,
+                "history_trans_count": 1,
+                "is_new_tag": 0,
+                "assoc_type": 0,
+                "business_circle_id": 0,
+                "build_date": "",
+                "original_shift_floor": "4",
+                "original_total_floor": 15
+            },
+            {
+                "id": 6618720,
+                "date": "113-06-02",
+                "trans_date": "2024-06-02",
+                "month": "113-06",
+                "address": "台北中山區民生東路二段及新生北路二段",
+                "layout": "3房",
+                "layout_v2": "3房2廳",
+                "room_search": 3,
+                "build_area": "43.23坪",
+                "build_area_v": {
+                    "area": "43.2",
+                    "unit": "坪"
+                },
+                "building_area": {
+                    "area": "34.0",
+                    "unit": "坪"
+                },
+                "building_total_price": {
+                    "price": "4,728",
+                    "unit": "萬"
+                },
+                "real_park_area": {
+                    "area": "9.2",
+                    "unit": "坪",
+                    "estimate": 0
+                },
+                "unit_price": {
+                    "price": "139.1",
+                    "unit": "萬/坪"
+                },
+                "src_unit_price": {
+                    "price": "117.7",
+                    "unit": "萬/坪"
+                },
+                "total_price": "5,088萬",
+                "total_price_v": "5,088",
+                "price_tips": "",
+                "context": "",
+                "is_special": 0,
+                "has_park": "1",
+                "unit_has_park": "0",
+                "shift_floor": "14樓",
+                "total_floor": "15樓",
+                "build_purpose_str": "住宅",
+                "real_park_total_price": "360",
+                "real_park_total_price_v": {
+                    "price": "360",
+                    "unit": "萬",
+                    "estimate": 0
+                },
+                "community": {
+                    "id": 5935592,
+                    "name": "佳元當代美術館",
+                    "build_type": 1
+                },
+                "trans_rep_year": "113年",
+                "tag": [
+                    "高樓層",
+                    "平面車位"
+                ],
+                "park_type_str": "平面車位",
+                "match_type": 0,
+                "tips": "",
+                "park_count": 1,
+                "history_trans_count": 1,
+                "is_new_tag": 0,
+                "assoc_type": 0,
+                "business_circle_id": 0,
+                "build_date": "",
+                "original_shift_floor": "14",
+                "original_total_floor": 15
+            },
+            {
+                "id": 6618716,
+                "date": "113-05-31",
+                "trans_date": "2024-05-31",
+                "month": "113-05",
+                "address": "台北中山區民生東路二段及新生北路二段",
+                "layout": "3房",
+                "layout_v2": "3房2廳",
+                "room_search": 3,
+                "build_area": "45.90坪",
+                "build_area_v": {
+                    "area": "45.9",
+                    "unit": "坪"
+                },
+                "building_area": {
+                    "area": "36.7",
+                    "unit": "坪"
+                },
+                "building_total_price": {
+                    "price": "4,814",
+                    "unit": "萬"
+                },
+                "real_park_area": {
+                    "area": "9.2",
+                    "unit": "坪",
+                    "estimate": 0
+                },
+                "unit_price": {
+                    "price": "131.3",
+                    "unit": "萬/坪"
+                },
+                "src_unit_price": {
+                    "price": "112.7",
+                    "unit": "萬/坪"
+                },
+                "total_price": "5,174萬",
+                "total_price_v": "5,174",
+                "price_tips": "",
+                "context": "",
+                "is_special": 0,
+                "has_park": "1",
+                "unit_has_park": "0",
+                "shift_floor": "3樓",
+                "total_floor": "15樓",
+                "build_purpose_str": "住宅",
+                "real_park_total_price": "360",
+                "real_park_total_price_v": {
+                    "price": "360",
+                    "unit": "萬",
+                    "estimate": 0
+                },
+                "community": {
+                    "id": 5935592,
+                    "name": "佳元當代美術館",
+                    "build_type": 1
+                },
+                "trans_rep_year": "113年",
+                "tag": [
+                    "低樓層",
+                    "平面車位"
+                ],
+                "park_type_str": "平面車位",
+                "match_type": 0,
+                "tips": "",
+                "park_count": 1,
+                "history_trans_count": 1,
+                "is_new_tag": 0,
+                "assoc_type": 0,
+                "business_circle_id": 0,
+                "build_date": "",
+                "original_shift_floor": "3",
+                "original_total_floor": 15
+            }
+        ],
+        "per_page": 20,
+        "page": 2,
+        "total_page": 2,
+        "total": 30,
+        "has_sale_ctrl": 1,
+        "region_id": 1,
+        "meta": {
+            "title": "台北佳元當代美術館實價登錄查詢 - 591實價登錄",
+            "og_title": "台北佳元當代美術館實價登錄查詢 - 591實價登錄",
+            "og_image": "https://img1.591.com.tw/house/2024/06/04/171746612678730003.jpg!338x252.jpg",
+            "keywords": "佳元當代美術館,佳元當代美術館社區,台北佳元當代美術館,佳元當代美術館實價登錄查詢",
+            "description": "591為您提供：台北社區佳元當代美術館實價登錄查詢，共30筆成交記錄，更多佳元當代美術館成交情報，歡迎諮詢社區專家。"
+        },
+        "trans_rep_years": [
+            {
+                "title": "近三個月",
+                "val": "-3"
+            },
+            {
+                "title": "近半年",
+                "val": "-6"
+            },
+            {
+                "title": "近一年",
+                "val": "-12"
+            },
+            {
+                "title": "113年",
+                "val": 113
+            }
+        ],
+        "address_condition": [
+            {
+                "title": "新生北路二段",
+                "val": "25742____"
+            }
+        ],
+        "special_num": 30,
+        "community_park": {
+            "community_id": 5935592,
+            "community_name": "佳元當代美術館",
+            "build_type": 1,
+            "unit_price": "0.00",
+            "total_price": "0.00",
+            "area": "0.00"
+        }
+    }
+}

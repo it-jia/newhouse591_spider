@@ -1,0 +1,252 @@
+{
+    "status": 1,
+    "msg": "請求成功",
+    "data": {
+        "hid": 135743,
+        "regionid": 1,
+        "sectionid": 3,
+        "region": "台北市",
+        "section": "中山區",
+        "addr_number": "民生東路二段25號",
+        "address": "台北市中山區民生東路二段25號",
+        "build_name": "佳元當代美術館",
+        "price_unit": {
+            "pending": 0,
+            "price": "135~150",
+            "unit": "萬/坪"
+        },
+        "price_total": {
+            "pending": 0,
+            "price": "3350~5500",
+            "unit": "萬/戶"
+        },
+        "price": {
+            "pending": 0,
+            "price": "135~150",
+            "unit": "萬/坪"
+        },
+        "build_type": 1,
+        "build_type_name": "預售屋",
+        "is_upscale": 0,
+        "status": 2,
+        "is_online": 1,
+        "layout": [
+            {
+                "room": "二房",
+                "area": "25"
+            },
+            {
+                "room": "三房",
+                "area": "34~36"
+            }
+        ],
+        "purpose": 3,
+        "purpose_name": "住宅大樓",
+        "purpose_other_name": "住商用",
+        "deal_time": {
+            "type": "finished",
+            "date": "2029年第三季度",
+            "deal": 0
+        },
+        "decorate": "標準配備",
+        "reception_address": "台北市中山區民生東路二段25號",
+        "map": {
+            "pending": 0,
+            "collect_id": 3686988,
+            "lat": "25.0581406",
+            "lng": "121.5286141"
+        },
+        "reception_map": {
+            "pending": 0,
+            "collect_id": 3776703,
+            "lat": "25.0578120",
+            "lng": "121.5283967"
+        },
+        "park_price": {
+            "pending": 1,
+            "price": "價格待定",
+            "unit": ""
+        },
+        "base_area": {
+            "pending": 0,
+            "area": 372.07,
+            "unit": "坪"
+        },
+        "build_area": {
+            "pending": 1,
+            "area": "暫無",
+            "unit": ""
+        },
+        "terrace": {
+            "pending": 1,
+            "area": "暫無",
+            "unit": ""
+        },
+        "ratio": "35.38%",
+        "jbrate": "41.9%",
+        "park_ratio": "1:0.81",
+        "park_planning": "平面式62個",
+        "park_piles": "有充電設備（含預留）",
+        "park_style": "暫無",
+        "manage_cost": {
+            "pending": 1,
+            "price": "待定",
+            "unit": ""
+        },
+        "structural_engine": "RC鋼筋混凝土結構",
+        "land_division": "商二特",
+        "households": "1幢，1棟，73戶住家，4戶店面",
+        "floor": "地上15層，地下4層",
+        "label": [
+            "近捷運",
+            "近公園"
+        ],
+        "shop_price": {
+            "pending": 1,
+            "price": "價格待定",
+            "unit": ""
+        },
+        "office_price": {
+            "pending": 1,
+            "price": "價格待定",
+            "unit": ""
+        },
+        "sell_time": {
+            "date": "銷售中",
+            "sell_status": 1,
+            "sell_status_txt": "在售"
+        },
+        "down_pay": "25%",
+        "lend_rate": "75%",
+        "project_pay": "",
+        "direction_rule": "朝南",
+        "property_company": "待定",
+        "manage_committee": 0,
+        "build_intro": "依現場為主",
+        "facility": [
+            "接待大廳",
+            "空中花園",
+            "交誼廳",
+            "信箱區",
+            "曬被區"
+        ],
+        "license": "113建字第00026號",
+        "use_license": "暫無",
+        "remark": "台北市有一座美術館即將誕生，純粹靜謐與藝術優雅 不期而遇。\r\n\r\n2023年，佳元建設x美學生活打破藝術只能展在室內的框限，在基地上舉辦戶外策展，讓這塊珍貴的土地曬曬太陽，同時帶給民生東路二段不一樣的風貌。2024年，特請王勝正大師為民生東路二段打造一座美術館，持續為中山區創造美好。\r\n\r\n「佳元當代美術館」位於台北市中山區民生東路二段與中原街口，基地面積約372坪，樓層規劃為1棟地上15層、地下4層，共73戶住家、4戶店面、62個坡道平面車位之住宅大樓，店面坪數規劃25-76坪，住家格局坪數規劃2-3房25~36坪。\r\n\r\n公共設施方面，有接待大廳、沙發休息區、交誼廳、信箱區、頂樓空中花園、戶外休憩區、曬被區，結構為RC鋼筋混凝土，全案取得銀級綠建築、銀級智慧建築、耐震建築標章。\r\n\r\n交通方面，本案位在正民生東路二段上，鄰近國道一號、新生建國雙高架，擁有一高、二快、三捷匯的優勢，且距離捷運行天宮站1號出口距離僅約450公尺、步行約6-7分鐘。\r\n\r\n學區方面，國小為風氣良好的吉林國小，國中為升學率優異的新興國中，皆在本案步行約6-10分鐘可達之距離內。\r\n\r\n日常生活方面，鄰近松江市場步行約9分鐘，步行6分鐘抵達吉林路全聯福利中心，周圍綠地公園有中原公園、錦州公園、永盛公園等。",
+        "width_deep": "",
+        "room_rule": {
+            "pending": 1,
+            "room_rule": "暫無",
+            "unit": ""
+        },
+        "fav_num": 224,
+        "share_num": 377,
+        "other_build": {
+            "hid": 0,
+            "purpose_id": 0,
+            "purpose_name": ""
+        },
+        "elevator_status_str": "",
+        "meta": {
+            "title": "佳元當代美術館建案詳情-591新建案",
+            "keywords": "佳元當代美術館,建案詳情,591新建案",
+            "description": "591新建案為您提供佳元當代美術館建案詳情，包括建案概括、建築規劃、特色說明、交通出行、周邊配套等詳細情況。了解佳元當代美術館建案詳情，就上591新建案！",
+            "info": "建案介紹：台北市佳元當代美術館，135~150萬/坪，建案地址台北市中山區民生東路二段25號，更多佳元當代美術館最新動態、開箱評價，請諮詢電話（0986-851-088轉35683）。",
+            "og_title": "來自【591新建案】",
+            "og_description": "佳元當代美術館，台北市中山區新建案，135~150萬/坪，詳情：",
+            "og_url": "https://www.591.com.tw/8H?salt=6pm",
+            "og_photo": "https://img1.591.com.tw/house/2024/06/04/171746612678730003.jpg!fit.730x460.jpg"
+        },
+        "special_purpose": 0,
+        "transportation": [
+            {
+                "title": "捷運系統",
+                "content": "行天宮站"
+            },
+            {
+                "title": "高速公路",
+                "content": "國道一號"
+            },
+            {
+                "title": "快速道路",
+                "content": "新生高架道路、建國高架道路、市民高架道路"
+            },
+            {
+                "title": "高鐵系統",
+                "content": "無"
+            },
+            {
+                "title": "台鐵系統",
+                "content": "無"
+            },
+            {
+                "title": "其他方式",
+                "content": "台北松山機場"
+            }
+        ],
+        "surrounding": [
+            {
+                "title": "學區",
+                "content": "吉林國小、新興國中"
+            },
+            {
+                "title": "超商/賣場",
+                "content": "全聯、義美、家樂福超市"
+            },
+            {
+                "title": "傳統市場",
+                "content": "松江市場、建國市場"
+            },
+            {
+                "title": "公共建設",
+                "content": "榮星花園、花博公園新生園區"
+            },
+            {
+                "title": "熱門商圈",
+                "content": "晴光商圈、晶華商圈、四平商圈"
+            },
+            {
+                "title": "醫療機構",
+                "content": "馬偕紀念醫院"
+            },
+            {
+                "title": "政府機構",
+                "content": "中山區公所、郵局"
+            },
+            {
+                "title": "其他配套",
+                "content": "無"
+            }
+        ],
+        "building_design": [
+            {
+                "title": "投資建設",
+                "content": "佳元地產股份有限公司"
+            },
+            {
+                "title": "營造公司",
+                "content": "翊豐營造股份有限公司"
+            },
+            {
+                "title": "企劃銷售",
+                "content": "美學生活置業股份有限公司"
+            },
+            {
+                "title": "建築設計",
+                "content": "陳克聚建築師事務所"
+            },
+            {
+                "title": "景觀設計",
+                "content": "序述計劃股份有限公司"
+            },
+            {
+                "title": "公設設計",
+                "content": "序述計劃股份有限公司"
+            },
+            {
+                "title": "燈光設計",
+                "content": "無"
+            }
+        ]
+    }
+}

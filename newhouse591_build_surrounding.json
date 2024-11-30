@@ -1,0 +1,939 @@
+{
+    "status": 1,
+    "msg": "success",
+    "data": {
+        "housing": {
+            "hid": 135743,
+            "build_name": "佳元當代美術館",
+            "address": "台北市中山區民生東路二段25號",
+            "reception_address": "台北市中山區民生東路二段25號",
+            "map": {
+                "pending": 0,
+                "collect_id": 3686988,
+                "lat": "25.0581406",
+                "lng": "121.5286141"
+            },
+            "reception_map": {
+                "pending": 0,
+                "collect_id": 3776703,
+                "lat": "25.0578120",
+                "lng": "121.5283967"
+            }
+        },
+        "facility": {
+            "traffic": {
+                "distance": 1,
+                "items": [
+                    {
+                        "id": 3187,
+                        "name": "中山里(民生)站",
+                        "distance": 154,
+                        "lat": 25.0579562,
+                        "lng": 121.5271081,
+                        "sub_type": "bus_station"
+                    },
+                    {
+                        "id": 4605,
+                        "name": "捷運行天宮站",
+                        "distance": 346,
+                        "lat": 25.0580798,
+                        "lng": 121.5320462,
+                        "sub_type": "bus_station"
+                    },
+                    {
+                        "id": 43897,
+                        "name": "捷運行天宮站(民生東路)",
+                        "distance": 395,
+                        "lat": 25.0578465,
+                        "lng": 121.5325201,
+                        "sub_type": "bus_station"
+                    },
+                    {
+                        "id": 3193,
+                        "name": "吉林國小站",
+                        "distance": 459,
+                        "lat": 25.054225,
+                        "lng": 121.530052,
+                        "sub_type": "bus_station"
+                    },
+                    {
+                        "id": 30104,
+                        "name": "捷運行天宮站(松江路)",
+                        "distance": 460,
+                        "lat": 25.0576688,
+                        "lng": 121.5331462,
+                        "sub_type": "bus_station"
+                    },
+                    {
+                        "id": 208,
+                        "name": "行天宮站",
+                        "distance": 493,
+                        "lat": 25.05972,
+                        "lng": 121.53318,
+                        "sub_type": "subway_station"
+                    },
+                    {
+                        "id": 207,
+                        "name": "中山國小站",
+                        "distance": 553,
+                        "lat": 25.0627123,
+                        "lng": 121.5264705,
+                        "sub_type": "subway_station"
+                    },
+                    {
+                        "id": 5418,
+                        "name": "長春松江路口站",
+                        "distance": 553,
+                        "lat": 25.0550663,
+                        "lng": 121.5329267,
+                        "sub_type": "bus_station"
+                    },
+                    {
+                        "id": 6177,
+                        "name": "捷運中山國小站",
+                        "distance": 574,
+                        "lat": 25.0627069,
+                        "lng": 121.5259578,
+                        "sub_type": "bus_station"
+                    },
+                    {
+                        "id": 200,
+                        "name": "雙連站",
+                        "distance": 802,
+                        "lat": 25.0577788,
+                        "lng": 121.5206671,
+                        "sub_type": "subway_station"
+                    },
+                    {
+                        "id": 205,
+                        "name": "松江南京站",
+                        "distance": 820,
+                        "lat": 25.0519821,
+                        "lng": 121.5330819,
+                        "sub_type": "subway_station"
+                    }
+                ],
+                "count": {
+                    "subway_station": 4,
+                    "bus_station": 7,
+                    "train_station": 0
+                }
+            },
+            "education": {
+                "distance": 2,
+                "items": [
+                    {
+                        "id": 278987,
+                        "name": "私立新生幼兒園",
+                        "distance": 180,
+                        "lat": 25.0596716,
+                        "lng": 121.5280426,
+                        "sub_type": "child"
+                    },
+                    {
+                        "id": 103,
+                        "name": "臺北市中山區吉林國民小學",
+                        "distance": 447,
+                        "lat": 25.05416379999999,
+                        "lng": 121.5292245,
+                        "sub_type": "grade"
+                    },
+                    {
+                        "id": 130,
+                        "name": "臺北市立新興國民中學",
+                        "distance": 491,
+                        "lat": 25.062038,
+                        "lng": 121.5263386,
+                        "sub_type": "middle"
+                    },
+                    {
+                        "id": 110,
+                        "name": "臺北市中山區中山國民小學",
+                        "distance": 571,
+                        "lat": 25.0628946,
+                        "lng": 121.5264755,
+                        "sub_type": "grade"
+                    },
+                    {
+                        "id": 107,
+                        "name": "臺北市中山區長春國民小學",
+                        "distance": 632,
+                        "lat": 25.0555125,
+                        "lng": 121.534168,
+                        "sub_type": "grade"
+                    },
+                    {
+                        "id": 3152,
+                        "name": "明道大學",
+                        "distance": 658,
+                        "lat": 25.05458,
+                        "lng": 121.533823,
+                        "sub_type": "university"
+                    },
+                    {
+                        "id": 133,
+                        "name": "臺北市立大同高中國中部",
+                        "distance": 756,
+                        "lat": 25.0550217,
+                        "lng": 121.5352723,
+                        "sub_type": "middle"
+                    },
+                    {
+                        "id": 134,
+                        "name": "臺北市立大同高級中學",
+                        "distance": 756,
+                        "lat": 25.05502169999999,
+                        "lng": 121.5352723,
+                        "sub_type": "middle"
+                    },
+                    {
+                        "id": 104,
+                        "name": "臺北市中山區長安國民小學",
+                        "distance": 939,
+                        "lat": 25.0498254,
+                        "lng": 121.5301942,
+                        "sub_type": "grade"
+                    },
+                    {
+                        "id": 236772,
+                        "name": "成淵高中天臺",
+                        "distance": 994,
+                        "lat": 25.0614814,
+                        "lng": 121.5194646,
+                        "sub_type": "middle"
+                    },
+                    {
+                        "id": 126,
+                        "name": "臺北市立長安國民中學",
+                        "distance": 1033,
+                        "lat": 25.0493783,
+                        "lng": 121.5320162,
+                        "sub_type": "middle"
+                    },
+                    {
+                        "id": 106,
+                        "name": "臺北市大同區雙蓮國民小學",
+                        "distance": 1209,
+                        "lat": 25.0601267,
+                        "lng": 121.5168171,
+                        "sub_type": "grade"
+                    }
+                ],
+                "count": {
+                    "grade": 5,
+                    "middle": 5,
+                    "child": 1,
+                    "university": 1
+                }
+            },
+            "life": {
+                "distance": 1,
+                "items": [
+                    {
+                        "id": 340879,
+                        "name": "果然專業便當",
+                        "distance": 42,
+                        "lat": 25.0578217,
+                        "lng": 121.528394,
+                        "sub_type": "restaurant"
+                    },
+                    {
+                        "id": 356299,
+                        "name": "豪餃子-五行水餃冰花鍋貼",
+                        "distance": 52,
+                        "lat": 25.058475,
+                        "lng": 121.5289731,
+                        "sub_type": "restaurant"
+                    },
+                    {
+                        "id": 18147,
+                        "name": "詠昌牛腱心麵",
+                        "distance": 58,
+                        "lat": 25.0586432,
+                        "lng": 121.5287545,
+                        "sub_type": "restaurant"
+                    },
+                    {
+                        "id": 18145,
+                        "name": "成都城火鍋店",
+                        "distance": 60,
+                        "lat": 25.0578606,
+                        "lng": 121.5281094,
+                        "sub_type": "restaurant"
+                    },
+                    {
+                        "id": 18144,
+                        "name": "哈肉燒",
+                        "distance": 61,
+                        "lat": 25.0578394,
+                        "lng": 121.5281144,
+                        "sub_type": "restaurant"
+                    },
+                    {
+                        "id": 93338,
+                        "name": "呷尚寶-中民店",
+                        "distance": 62,
+                        "lat": 25.0584995,
+                        "lng": 121.5290769,
+                        "sub_type": "restaurant"
+                    },
+                    {
+                        "id": 394817,
+                        "name": "JSP",
+                        "distance": 62,
+                        "lat": 25.0584995,
+                        "lng": 121.5290769,
+                        "sub_type": "restaurant"
+                    },
+                    {
+                        "id": 351843,
+                        "name": "中州店呷尚寶",
+                        "distance": 62,
+                        "lat": 25.0584995,
+                        "lng": 121.5290769,
+                        "sub_type": "restaurant"
+                    },
+                    {
+                        "id": 93337,
+                        "name": "阿太麵線",
+                        "distance": 62,
+                        "lat": 25.0585952,
+                        "lng": 121.5289678,
+                        "sub_type": "restaurant"
+                    },
+                    {
+                        "id": 18141,
+                        "name": "心呱坊",
+                        "distance": 64,
+                        "lat": 25.0582131,
+                        "lng": 121.5279839,
+                        "sub_type": "restaurant"
+                    },
+                    {
+                        "id": 4577,
+                        "name": "東爵紅茶",
+                        "distance": 130,
+                        "lat": 25.058843,
+                        "lng": 121.529637,
+                        "sub_type": "shopping_mall"
+                    },
+                    {
+                        "id": 422594,
+                        "name": "中原公園",
+                        "distance": 254,
+                        "lat": 25.05586229999999,
+                        "lng": 121.5286553,
+                        "sub_type": "park"
+                    },
+                    {
+                        "id": 420320,
+                        "name": "錦州公園",
+                        "distance": 275,
+                        "lat": 25.0605556,
+                        "lng": 121.5291667,
+                        "sub_type": "park"
+                    },
+                    {
+                        "id": 4578,
+                        "name": "健博有限公司",
+                        "distance": 289,
+                        "lat": 25.0604636,
+                        "lng": 121.5298886,
+                        "sub_type": "shopping_mall"
+                    },
+                    {
+                        "id": 420311,
+                        "name": "聚葉公園",
+                        "distance": 298,
+                        "lat": 25.0605325,
+                        "lng": 121.5272907,
+                        "sub_type": "park"
+                    },
+                    {
+                        "id": 4576,
+                        "name": "必翔銀髮樂活館 台北店",
+                        "distance": 302,
+                        "lat": 25.060792,
+                        "lng": 121.527969,
+                        "sub_type": "shopping_mall"
+                    },
+                    {
+                        "id": 3156,
+                        "name": "Adult Toys",
+                        "distance": 350,
+                        "lat": 25.057261,
+                        "lng": 121.525287,
+                        "sub_type": "shopping_mall"
+                    },
+                    {
+                        "id": 261023,
+                        "name": "客泊樂 Kamper Land",
+                        "distance": 352,
+                        "lat": 25.0581828,
+                        "lng": 121.5251264,
+                        "sub_type": "park"
+                    },
+                    {
+                        "id": 4572,
+                        "name": "杰德食品股份有限公司",
+                        "distance": 358,
+                        "lat": 25.06020209999999,
+                        "lng": 121.5258912,
+                        "sub_type": "shopping_mall"
+                    },
+                    {
+                        "id": 419490,
+                        "name": "永盛公園",
+                        "distance": 369,
+                        "lat": 25.058936,
+                        "lng": 121.525062,
+                        "sub_type": "park"
+                    },
+                    {
+                        "id": 420891,
+                        "name": "中吉公園",
+                        "distance": 383,
+                        "lat": 25.0564307,
+                        "lng": 121.5319135,
+                        "sub_type": "park"
+                    },
+                    {
+                        "id": 424900,
+                        "name": "松錦2號公園",
+                        "distance": 389,
+                        "lat": 25.05961989999999,
+                        "lng": 121.5321069,
+                        "sub_type": "park"
+                    },
+                    {
+                        "id": 4573,
+                        "name": "Miss Bride彩妝飾品工作室",
+                        "distance": 393,
+                        "lat": 25.0601629,
+                        "lng": 121.525422,
+                        "sub_type": "shopping_mall"
+                    },
+                    {
+                        "id": 223090,
+                        "name": "美安SHOP·COM經銷商",
+                        "distance": 420,
+                        "lat": 25.0611266,
+                        "lng": 121.5260656,
+                        "sub_type": "shopping_mall"
+                    },
+                    {
+                        "id": 4574,
+                        "name": "夾樂吧 錦州店",
+                        "distance": 439,
+                        "lat": 25.0604488,
+                        "lng": 121.525081,
+                        "sub_type": "shopping_mall"
+                    },
+                    {
+                        "id": 444300,
+                        "name": "Amanda",
+                        "distance": 440,
+                        "lat": 25.0613953,
+                        "lng": 121.5261441,
+                        "sub_type": "department_store"
+                    },
+                    {
+                        "id": 4575,
+                        "name": "巧憶寶石專櫃",
+                        "distance": 475,
+                        "lat": 25.061192,
+                        "lng": 121.525327,
+                        "sub_type": "shopping_mall"
+                    },
+                    {
+                        "id": 226538,
+                        "name": "美安SHOP.COM經銷商",
+                        "distance": 497,
+                        "lat": 25.055854,
+                        "lng": 121.5243754,
+                        "sub_type": "shopping_mall"
+                    },
+                    {
+                        "id": 605632,
+                        "name": "欣欣市集",
+                        "distance": 519,
+                        "lat": 25.0541439,
+                        "lng": 121.5259693,
+                        "sub_type": "department_store"
+                    },
+                    {
+                        "id": 444879,
+                        "name": "欣欣大眾百貨",
+                        "distance": 534,
+                        "lat": 25.0541812,
+                        "lng": 121.5256281,
+                        "sub_type": "department_store"
+                    },
+                    {
+                        "id": 444878,
+                        "name": "歐易購EUGO Mall",
+                        "distance": 574,
+                        "lat": 25.05298,
+                        "lng": 121.528747,
+                        "sub_type": "department_store"
+                    },
+                    {
+                        "id": 444308,
+                        "name": "Golden Goose Deluxe Brand 晶華酒店",
+                        "distance": 623,
+                        "lat": 25.05417779999999,
+                        "lng": 121.524244,
+                        "sub_type": "department_store"
+                    },
+                    {
+                        "id": 444299,
+                        "name": "盧富美",
+                        "distance": 870,
+                        "lat": 25.0642362,
+                        "lng": 121.5232116,
+                        "sub_type": "department_store"
+                    },
+                    {
+                        "id": 444303,
+                        "name": "Vieso中山門市",
+                        "distance": 965,
+                        "lat": 25.053343,
+                        "lng": 121.520642,
+                        "sub_type": "department_store"
+                    },
+                    {
+                        "id": 444880,
+                        "name": "HABU童鞋 新光三越台北南西店6F",
+                        "distance": 981,
+                        "lat": 25.0523174,
+                        "lng": 121.5213066,
+                        "sub_type": "department_store"
+                    },
+                    {
+                        "id": 243170,
+                        "name": "美安SHOP.COM經銷商 民權西路",
+                        "distance": 981,
+                        "lat": 25.0625922,
+                        "lng": 121.5202115,
+                        "sub_type": "department_store"
+                    },
+                    {
+                        "id": 444311,
+                        "name": "Norns新光三越南西一館專櫃門市",
+                        "distance": 996,
+                        "lat": 25.0523201,
+                        "lng": 121.5210989,
+                        "sub_type": "department_store"
+                    }
+                ],
+                "count": {
+                    "shopping_mall": 10,
+                    "department_store": 10,
+                    "restaurant": 10,
+                    "park": 7
+                }
+            },
+            "other": {
+                "distance": 1,
+                "items": [
+                    {
+                        "id": 279216,
+                        "name": "達文西犬貓專科動物醫院",
+                        "distance": 54,
+                        "lat": 25.0582118,
+                        "lng": 121.5280857,
+                        "sub_type": "hospital"
+                    },
+                    {
+                        "id": 261005,
+                        "name": "瑞興銀行ATM(設置點民生分行)",
+                        "distance": 100,
+                        "lat": 25.0581677,
+                        "lng": 121.529601,
+                        "sub_type": "bank"
+                    },
+                    {
+                        "id": 279224,
+                        "name": "人建永隆國術",
+                        "distance": 224,
+                        "lat": 25.0581699,
+                        "lng": 121.5308308,
+                        "sub_type": "hospital"
+                    },
+                    {
+                        "id": 260989,
+                        "name": "國泰世華銀行 新生分行",
+                        "distance": 242,
+                        "lat": 25.0581853,
+                        "lng": 121.5262217,
+                        "sub_type": "bank"
+                    },
+                    {
+                        "id": 260990,
+                        "name": "陽信銀行 台北分行",
+                        "distance": 274,
+                        "lat": 25.05821389999999,
+                        "lng": 121.5259,
+                        "sub_type": "bank"
+                    },
+                    {
+                        "id": 264416,
+                        "name": "第一銀行 吉林分行",
+                        "distance": 328,
+                        "lat": 25.0554924,
+                        "lng": 121.5300322,
+                        "sub_type": "bank"
+                    },
+                    {
+                        "id": 279219,
+                        "name": "秀仁整形外科診所",
+                        "distance": 346,
+                        "lat": 25.05823,
+                        "lng": 121.5251851,
+                        "sub_type": "hospital"
+                    },
+                    {
+                        "id": 264626,
+                        "name": "合作金庫銀行 五洲分行",
+                        "distance": 355,
+                        "lat": 25.058108,
+                        "lng": 121.532133,
+                        "sub_type": "bank"
+                    },
+                    {
+                        "id": 279218,
+                        "name": "中醫",
+                        "distance": 377,
+                        "lat": 25.0579236,
+                        "lng": 121.5248839,
+                        "sub_type": "hospital"
+                    },
+                    {
+                        "id": 283807,
+                        "name": "元林診所",
+                        "distance": 385,
+                        "lat": 25.0611164,
+                        "lng": 121.5305551,
+                        "sub_type": "hospital"
+                    },
+                    {
+                        "id": 279220,
+                        "name": "惠明春泉診所大腸水療中心",
+                        "distance": 396,
+                        "lat": 25.0582852,
+                        "lng": 121.5246901,
+                        "sub_type": "hospital"
+                    },
+                    {
+                        "id": 266623,
+                        "name": "華銀行訓中心",
+                        "distance": 409,
+                        "lat": 25.05598629999999,
+                        "lng": 121.5318993,
+                        "sub_type": "bank"
+                    },
+                    {
+                        "id": 260996,
+                        "name": "陽信銀行 吉林分行",
+                        "distance": 417,
+                        "lat": 25.0616179,
+                        "lng": 121.530138,
+                        "sub_type": "bank"
+                    },
+                    {
+                        "id": 262635,
+                        "name": "中國信託銀行 城北分行",
+                        "distance": 425,
+                        "lat": 25.05812269999999,
+                        "lng": 121.5328252,
+                        "sub_type": "bank"
+                    },
+                    {
+                        "id": 264625,
+                        "name": "聯邦銀行 松江分行",
+                        "distance": 441,
+                        "lat": 25.0587495,
+                        "lng": 121.5329381,
+                        "sub_type": "bank"
+                    },
+                    {
+                        "id": 262615,
+                        "name": "台北富邦銀行 松江分行",
+                        "distance": 442,
+                        "lat": 25.0573506,
+                        "lng": 121.5329125,
+                        "sub_type": "bank"
+                    },
+                    {
+                        "id": 279221,
+                        "name": "生泉婦產專科試管嬰兒中心",
+                        "distance": 451,
+                        "lat": 25.0578768,
+                        "lng": 121.5241519,
+                        "sub_type": "hospital"
+                    },
+                    {
+                        "id": 279222,
+                        "name": "程得勝婦產科診所",
+                        "distance": 458,
+                        "lat": 25.057908,
+                        "lng": 121.5240759,
+                        "sub_type": "hospital"
+                    },
+                    {
+                        "id": 279590,
+                        "name": "睦霖復健科診所— 疼痛骨科復健/兒童早療/增生療法PRP/徒手治療",
+                        "distance": 472,
+                        "lat": 25.0597361,
+                        "lng": 121.5329547,
+                        "sub_type": "hospital"
+                    },
+                    {
+                        "id": 283814,
+                        "name": "重陽齒科醫院",
+                        "distance": 475,
+                        "lat": 25.0613076,
+                        "lng": 121.5254614,
+                        "sub_type": "hospital"
+                    }
+                ],
+                "count": {
+                    "hospital": 10,
+                    "bank": 10,
+                    "city_hall": 0
+                }
+            },
+            "disgust": {
+                "distance": 1,
+                "items": [
+                    {
+                        "id": 401769,
+                        "name": "臺灣基督長老教會 臺北民生教會",
+                        "distance": 68,
+                        "lat": 25.0575576,
+                        "lng": 121.528788,
+                        "sub_type": "church"
+                    },
+                    {
+                        "id": 401759,
+                        "name": "基督教新生教團",
+                        "distance": 178,
+                        "lat": 25.0596008,
+                        "lng": 121.5278993,
+                        "sub_type": "church"
+                    },
+                    {
+                        "id": 400056,
+                        "name": "財團法人中華民國台北市基督教",
+                        "distance": 180,
+                        "lat": 25.0596716,
+                        "lng": 121.5280426,
+                        "sub_type": "church"
+                    },
+                    {
+                        "id": 445164,
+                        "name": "台灣中油 新生北路站（直營&自助）",
+                        "distance": 200,
+                        "lat": 25.0564624,
+                        "lng": 121.5279227,
+                        "sub_type": "gas_station"
+                    },
+                    {
+                        "id": 445139,
+                        "name": "台北市義消圓山分隊",
+                        "distance": 214,
+                        "lat": 25.059804,
+                        "lng": 121.5275561,
+                        "sub_type": "fire_station"
+                    },
+                    {
+                        "id": 406939,
+                        "name": "NIC 新創教會",
+                        "distance": 404,
+                        "lat": 25.0549646,
+                        "lng": 121.5305561,
+                        "sub_type": "church"
+                    },
+                    {
+                        "id": 406935,
+                        "name": "臺灣基督長老教會 松江路教會",
+                        "distance": 426,
+                        "lat": 25.05782659999999,
+                        "lng": 121.5328249,
+                        "sub_type": "church"
+                    },
+                    {
+                        "id": 406934,
+                        "name": "Changchun Presbyterian Church",
+                        "distance": 473,
+                        "lat": 25.0597393,
+                        "lng": 121.5329568,
+                        "sub_type": "church"
+                    },
+                    {
+                        "id": 400045,
+                        "name": "臺北神愛浸信會教會",
+                        "distance": 488,
+                        "lat": 25.0622917,
+                        "lng": 121.5301593,
+                        "sub_type": "church"
+                    },
+                    {
+                        "id": 400044,
+                        "name": "台北市召會第74聚會所",
+                        "distance": 531,
+                        "lat": 25.0628945,
+                        "lng": 121.5281547,
+                        "sub_type": "church"
+                    },
+                    {
+                        "id": 409581,
+                        "name": "財團法人台北市中華基督教會",
+                        "distance": 546,
+                        "lat": 25.054464,
+                        "lng": 121.5250253,
+                        "sub_type": "church"
+                    },
+                    {
+                        "id": 411698,
+                        "name": "台北中華基督教會公理堂",
+                        "distance": 546,
+                        "lat": 25.054464,
+                        "lng": 121.5250253,
+                        "sub_type": "church"
+                    },
+                    {
+                        "id": 399460,
+                        "name": "萬安生命禮儀 台北馬偕紀念醫院服務處 | 免費生命禮儀服務諮詢",
+                        "distance": 650,
+                        "lat": 25.058745,
+                        "lng": 121.5222011,
+                        "sub_type": "funeral_home"
+                    },
+                    {
+                        "id": 398915,
+                        "name": "長春四面佛",
+                        "distance": 731,
+                        "lat": 25.0542485,
+                        "lng": 121.5344533,
+                        "sub_type": "hindu_temple"
+                    },
+                    {
+                        "id": 400108,
+                        "name": "翔恩生命股份有限公司",
+                        "distance": 741,
+                        "lat": 25.0622385,
+                        "lng": 121.5344099,
+                        "sub_type": "funeral_home"
+                    },
+                    {
+                        "id": 400110,
+                        "name": "金寶軒事業股份有限公司",
+                        "distance": 791,
+                        "lat": 25.062279,
+                        "lng": 121.5349929,
+                        "sub_type": "funeral_home"
+                    },
+                    {
+                        "id": 399467,
+                        "name": "玉佛山生命會館",
+                        "distance": 796,
+                        "lat": 25.0626554,
+                        "lng": 121.5347468,
+                        "sub_type": "funeral_home"
+                    },
+                    {
+                        "id": 400112,
+                        "name": "福音山工程",
+                        "distance": 805,
+                        "lat": 25.0621884,
+                        "lng": 121.5352382,
+                        "sub_type": "funeral_home"
+                    },
+                    {
+                        "id": 445170,
+                        "name": "臺灣中油 吉林路站(直營無柴油)",
+                        "distance": 822,
+                        "lat": 25.0508904,
+                        "lng": 121.5302031,
+                        "sub_type": "gas_station"
+                    },
+                    {
+                        "id": 400116,
+                        "name": "生命工場",
+                        "distance": 831,
+                        "lat": 25.0621808,
+                        "lng": 121.5355489,
+                        "sub_type": "funeral_home"
+                    },
+                    {
+                        "id": 399468,
+                        "name": "鼎峰會館",
+                        "distance": 838,
+                        "lat": 25.0627005,
+                        "lng": 121.5352275,
+                        "sub_type": "funeral_home"
+                    },
+                    {
+                        "id": 400059,
+                        "name": "雋詠禮儀股份有限公司",
+                        "distance": 840,
+                        "lat": 25.0627671,
+                        "lng": 121.535205,
+                        "sub_type": "cemetery"
+                    },
+                    {
+                        "id": 400118,
+                        "name": "聖德生命禮儀公司",
+                        "distance": 863,
+                        "lat": 25.0621748,
+                        "lng": 121.5359312,
+                        "sub_type": "funeral_home"
+                    },
+                    {
+                        "id": 400119,
+                        "name": "富益會館",
+                        "distance": 869,
+                        "lat": 25.0621745,
+                        "lng": 121.5359996,
+                        "sub_type": "funeral_home"
+                    },
+                    {
+                        "id": 399464,
+                        "name": "聚豐園生命禮儀有限公司",
+                        "distance": 874,
+                        "lat": 25.0635461,
+                        "lng": 121.5349032,
+                        "sub_type": "funeral_home"
+                    },
+                    {
+                        "id": 400061,
+                        "name": "台北生命禮儀公司首選-台北市葬儀社推薦-冬瓜行旅(小冬瓜郭憲鴻)",
+                        "distance": 882,
+                        "lat": 25.0621719,
+                        "lng": 121.536145,
+                        "sub_type": "cemetery"
+                    },
+                    {
+                        "id": 400063,
+                        "name": "茸茸花園",
+                        "distance": 997,
+                        "lat": 25.0499602,
+                        "lng": 121.524578,
+                        "sub_type": "cemetery"
+                    }
+                ],
+                "count": {
+                    "airport": 0,
+                    "cemetery": 3,
+                    "church": 10,
+                    "fire_station": 1,
+                    "funeral_home": 10,
+                    "gas_station": 2,
+                    "hindu_temple": 1,
+                    "mosque": 0
+                }
+            }
+        }
+    }
+}
